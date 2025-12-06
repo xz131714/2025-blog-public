@@ -11,7 +11,7 @@
 
 > ***WebDAV策略选择本地代理***
 ![c1](https://pb.xiaozhangya.xin/openlistWebDAV/c3.png)
-
+> **Cookie的详细获取方式，查看**[**官方文档**](https://doc.oplist.org/guide/drivers/quark)
 ![c1](https://pb.xiaozhangya.xin/openlistWebDAV/c4.png)
 ## 更改用户密码
 ![c1](https://pb.xiaozhangya.xin/openlistWebDAV/c5.png)
