@@ -1,0 +1,9 @@
+{
+  "title": "Microsoft 激活脚本 （MAS）",
+  "tags": [
+    "Microsoft Avtivation Scripts"
+  ],
+  "date": "2025-12-06",
+  "summary": "开源的 Windows 和 Office 激活器，支持 HWID、Ohook、TSforge 和 Online KMS 激活方法，并具备高级故障排除功能。",
+  "cover": "/blogs/mas/600540e5aa0ba29c.jpg"
+}
