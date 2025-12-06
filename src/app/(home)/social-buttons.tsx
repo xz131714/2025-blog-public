@@ -43,7 +43,7 @@ export default function SocialButtons() {
 				<div className='absolute top-0 left-0 flex items-center justify-end gap-3 max-sm:static' style={{ width: styles.width }}>
 					{tertiaryShow && (
 						<motion.a
-							href='https://github.com/yysuni'
+							href='https://github.com/xz131714'
 							target='_blank'
 							initial={{ opacity: 0, scale: 0.6 }}
 							animate={{ opacity: 1, scale: 1 }}
