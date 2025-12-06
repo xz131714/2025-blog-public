@@ -1,10 +1,10 @@
 # 一、软件准备
-- [**Openlist app**]() (https://github.com/OpenListApp/OpenListApp) 
+- [**Openlist app**](https://github.com/OpenListApp/OpenListApp) 
 > ***选择对应的客户端进行下载***，可能需要**魔法**访问
 - [**网易爆米花**](https://bmh.163.com/la/tuanzhangrtb)
 
 # 二、图文教程
-## **OpenList 配置教程**
+## OpenList 配置教程
 ![c1](https://pb.xiaozhangya.xin/openlistWebDAV/c1.png)
 ## 添加存储
 ![c1](https://pb.xiaozhangya.xin/openlistWebDAV/c2.png)
